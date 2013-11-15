@@ -7,6 +7,7 @@
 (defn working-template
   "FIXME: write documentation"
   [name]
+  (prn "Using working template SNAPSHOT")
   (let [data {:name name
               :sanitized (name-to-path name)}]
     (main/info "Generating fresh 'lein new' working-template project.")
