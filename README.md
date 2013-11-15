@@ -1,10 +1,10 @@
 # working-template
 
-A Leiningen template for FIXME.
+A working leiningen template.
 
 ## Usage
 
-FIXME
+This works, but it would be silly to use.
 
 ## License
 
